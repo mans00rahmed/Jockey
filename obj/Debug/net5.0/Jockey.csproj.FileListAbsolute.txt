@@ -156,3 +156,5 @@ C:\Users\Rrs computers\source\repos\Jockey\Jockey\obj\Debug\net5.0\Razor\Views\C
 C:\Users\Rrs computers\source\repos\Jockey\Jockey\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Rrs computers\source\repos\Jockey\Jockey\obj\Debug\net5.0\Razor\Views\ApplicationType\Create.cshtml.g.cs
 C:\Users\Rrs computers\source\repos\Jockey\Jockey\obj\Debug\net5.0\Razor\Views\ApplicationType\Index.cshtml.g.cs
+C:\Users\Rrs computers\source\repos\Jockey\Jockey\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Rrs computers\source\repos\Jockey\Jockey\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
