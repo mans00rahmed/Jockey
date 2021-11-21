@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mQMw9xQixtd1rdKM/qy/SB2FEts39g81Yzge7rNCGYpnQ72Xut1HEihTaHeY3RGXlFZ0VjvKhi4LfiMIhGhGFA==",
+  "dgSpecHash": "BGJpEwV3PChukI0Rmij5R7dx3KGgkKFQ4RXkcR43pZMjXyOfrTGhA7IJV+hy8yL+Q7vxsz3hnlV8GZDKSQaM6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rrs computers\\source\\repos\\Jockey\\Jockey\\Jockey.csproj",
   "expectedPackageFiles": [
@@ -25,7 +25,7 @@
     "C:\\Users\\Rrs computers\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.1\\microsoft.entityframeworkcore.analyzers.5.0.1.nupkg.sha512",
     "C:\\Users\\Rrs computers\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.1\\microsoft.entityframeworkcore.design.5.0.1.nupkg.sha512",
     "C:\\Users\\Rrs computers\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.1\\microsoft.entityframeworkcore.relational.5.0.1.nupkg.sha512",
-    "C:\\Users\\Rrs computers\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.0\\microsoft.entityframeworkcore.sqlserver.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rrs computers\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.1\\microsoft.entityframeworkcore.sqlserver.5.0.1.nupkg.sha512",
     "C:\\Users\\Rrs computers\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.1\\microsoft.entityframeworkcore.tools.5.0.1.nupkg.sha512",
     "C:\\Users\\Rrs computers\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Rrs computers\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
