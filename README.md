@@ -9,6 +9,6 @@ This MVC project performs CRUD Operations on Category and Application Type utili
 ### Database Tool Used 
 - Microsoft SQL Server Mangement Studio.
 
-### Delpoyed :
+### Delployed
 - Microsoft Azure
 - Azure SQL Database
