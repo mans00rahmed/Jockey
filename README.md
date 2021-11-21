@@ -2,7 +2,7 @@
 ASP.NET Core MVC (.NET 5), ASP.NET Core Razor Pages, Dependency Injection, Entity Framework Core, SQL Server, CRUD Operations
 This MVC project performs CRUD Operations on Category and Application Type utilising Entity Framework Core.
 
-## Devloped Using
+## Developed Using..
 - Visual Studio 2019.
 - ASP.NET Core MVC (.NET 5)
 
@@ -11,4 +11,4 @@ This MVC project performs CRUD Operations on Category and Application Type utili
 
 ### Delpoyed :
 - Microsoft Azure
-- Aure SQL Database
+- Azure SQL Database
